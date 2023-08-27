@@ -10,6 +10,8 @@ Třeba [BME688 - Senzor tlaku, teploty, vlhkosti a kvalitu vzduchu](https://www.
 
 Modul s APDS9960 má zadní straně propojku pro připojení pull-up rezistorů na I2C sběrnici. Ta je ve z výroby propojená. Pokud pull-up rezistory použít nechceš, stačí proškrábnout cestu mezi pájecími ploškami mostu.
 
+## Tento modul si můžeš objednat na https://www.laskakit.cz/laskakit-apds-9960-senzor-priblizeni-a-gest/
+
 Mezi podporované knihovny v Arduino IDE patří</br>
 https://github.com/arduino-libraries/Arduino_APDS9960</br>
 https://github.com/sparkfun/SparkFun_APDS-9960_Sensor_Arduino_Library</br>
