@@ -9,6 +9,8 @@ Our APDS9960-Proximity-Gesture-Sensor module has I2C address 0x39. On the board 
 
 The module with APDS9960 has a jumper on the back to connect pull-up resistors to the I2C bus. It is by deault connected. If you don't want to use the pull-up resistors, just cut a path between the solder faces of the bridge.
 
+## You can buy this module on https://www.laskakit.cz/laskakit-apds-9960-senzor-priblizeni-a-gest/
+
 Supported Arduino IDE libraries</br>
 https://github.com/arduino-libraries/Arduino_APDS9960</br>
 https://github.com/sparkfun/SparkFun_APDS-9960_Sensor_Arduino_Library</br>
